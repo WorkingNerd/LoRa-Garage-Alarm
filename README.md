@@ -16,7 +16,7 @@
 
 
 ## Screenshots
-![screenshot](./Hardware/Ver. 1.0/Capture.PNG)
+![screenshot](./Hardware/Ver. 1.0/Capture.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
