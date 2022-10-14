@@ -16,7 +16,7 @@
 
 
 ## Screenshots
-![Example](./Hardware/Ver. 1.0/Capture.PNG)
+![Example](./IMG/Capture.PNG)
 
 
 ## Project Status
